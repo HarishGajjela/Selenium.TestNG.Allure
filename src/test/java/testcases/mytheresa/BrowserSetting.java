@@ -9,7 +9,7 @@ import static variables.mytheresa.UrlVariables.*;
 
 public class BrowserSetting {
 	
-	public WebDriver BrowserSettings() {
+	public static WebDriver BrowserSettings() {
 		
 		WebdriverSettings wds = new WebdriverSettings();
 		WebDriver driver = wds.driverSettings();

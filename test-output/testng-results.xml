@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-01T12:40:50 IST" name="Suite" finished-at="2020-08-01T12:41:17 IST" duration-ms="26893">
+  <suite started-at="2020-09-27T07:21:54Z" name="Suite" finished-at="2020-09-27T07:22:31Z" duration-ms="37129">
     <groups>
     </groups>
-    <test started-at="2020-08-01T12:40:50 IST" name="Test" finished-at="2020-08-01T12:41:17 IST" duration-ms="26893">
+    <test started-at="2020-09-27T07:21:54Z" name="Test" finished-at="2020-09-27T07:22:31Z" duration-ms="37129">
       <class name="testcases.mytheresa.WishListCheckAdd">
-        <test-method signature="WishList()[pri:0, instance:testcases.mytheresa.WishListCheckAdd@7ce3cb8e]" started-at="2020-08-01T12:40:50 IST" name="WishList" finished-at="2020-08-01T12:41:17 IST" duration-ms="26862" status="PASS">
+        <test-method signature="WishList()[pri:0, instance:testcases.mytheresa.WishListCheckAdd@7a419da4]" started-at="2020-09-27T07:21:54Z" name="WishList" finished-at="2020-09-27T07:22:31Z" duration-ms="37033" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WishList -->

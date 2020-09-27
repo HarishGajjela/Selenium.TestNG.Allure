@@ -5,6 +5,7 @@
 		<classes>
 			<!-- <class name="testcases.mytheresa.NewUserJourney" /> -->
 			<class name="testcases.mytheresa.WishListCheckAdd" />
+			<!-- <class name="testcases.mytheresa.brokenLinks" /> -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
